@@ -1,3 +1,3 @@
-# Basics-of-C
+# Basics-Ciphers-using-C
 
-Three simple objectives: to print "Hello, World", create a pyramid, and be able to calculate change.
+Code for implementing both the Caesar Cypher and Vignere Cypher.
